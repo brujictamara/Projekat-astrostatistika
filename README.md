@@ -4,22 +4,22 @@
 
 ## Kratak opis projekta
 
-Ovaj projekat analizira potvrđene egzoplanete iz baze NASA Exoplanet
-Archive i ispituje kako njihova klasifikacija u habitabilnoj zoni zavisi
+Ovaj projekat analizira potvrđene egzoplanete iz baze _NASA Exoplanet
+Archive_ i ispituje kako njihova klasifikacija u habitabilnoj zoni zavisi
 od spektralnog tipa matične zvezde i metode detekcije.
 
 Granice konzervativne i optimistične habitabilne zone određuju se prema
 Kopparapu modelu, na osnovu efektivne temperature i luminoznosti zvezde,
-a zatim se porede sa velikom poluosom orbite planete.
+a zatim se porede sa velikom poluosom orbite planete iz kataloga.
 
 Stabilnost rezultata proverava se bootstrap metodom i Monte Carlo
-propagacijom mernih neizvesnosti. Rezultati se porede sa radom
-Jiang et al. (2024), ali se umesto klasifikacije prema procenjenoj
-površinskoj temperaturi koriste fizički modelirane Kopparapu granice.
+propagacijom neodređenosti merenja. Rezultati se porede sa radom
+_Jiang et al. (2024)_, ali se umesto klasifikacije prema procenjenoj
+površinskoj temperaturi koriste fizički modelovane Kopparapu granice.
 
-U analiziranom katalogu M zvezde imaju najveći relativni udeo HZ
-kandidata, dok metoda radijalnih brzina daje više kandidata od tranzitne
-metode. Rezultati se tumače uzimajući u obzir selekcione efekte metoda
+U analiziranom katalogu **M zvezde** imaju **najveći relativni udeo HZ
+kandidata**, dok **metoda radijalnih brzina daje više kandidata od tranzitne
+metode**. Rezultati se tumače uzimajući u obzir selekcione efekte metoda
 detekcije i nereprezentativnost kataloga potvrđenih egzoplaneta.
 
 
