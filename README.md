@@ -1,6 +1,6 @@
 # Uticaj spektralnog tipa zvezde i metode detekcije na klasifikaciju egzoplaneta u habitabilnoj zoni prema Kopparapu modelu
 
-![UBMATF](https://img.shields.io/badge/MASS--UBMATF-Astrostatistics_2026-slateblue)
+![UBMATF](https://img.shields.io/badge/UBMATF-Astrostatistics_2026-slateblue)
 
 ## Kratak opis projekta
 
