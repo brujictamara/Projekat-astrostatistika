@@ -1,6 +1,6 @@
 # Uticaj spektralnog tipa zvezde na klasifikaciju egzoplaneta u habitabilnoj zoni
 
-![MASS-UBMATF](https://img.shields.io/badge/MASS--UBMATF-Astrostatistics_2026-slateblue)
+![UBMATF](https://img.shields.io/badge/MASS--UBMATF-Astrostatistics_2026-slateblue)
 
 ## Kratak opis projekta
 
