@@ -25,10 +25,10 @@ detekcije i nereprezentativnost kataloga potvrđenih egzoplaneta.
 
 ## Struktura repozitorijuma
 
-* `projekat.ipynb` — glavni notebook sa kodom, analizom i rezultatima;
-* `requirements.txt` — spisak Python paketa potrebnih za pokretanje;
-* `README.md` — opis projekta i uputstvo za pokretanje.
-* `.gitignore` — spisak lokalno generisanih fajlova koji se ne postavljaju
+* `projekat.ipynb` - glavni notebook sa kodom, analizom i rezultatima;
+* `requirements.txt` - spisak Python paketa potrebnih za pokretanje;
+* `README.md` - opis projekta i uputstvo za pokretanje.
+* `.gitignore` - spisak lokalno generisanih fajlova koji se ne postavljaju
   na GitHub.
 
 Podaci nisu sačuvani kao poseban fajl jer se automatski preuzimaju iz
